@@ -1,4 +1,4 @@
-<body style="background-color:PowderBlue;">
+<body>
 <h1 style="text-align:center">
 我的第一篇个人博客</h1>
 <blockquote>
