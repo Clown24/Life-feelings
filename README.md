@@ -4,7 +4,7 @@
 <blockquote>
   <hr />
 </blockquote>
-<h2 style="font-family:verdana;text-align:center;color:pink">
+<h2 style="font-family:verdana;text-align:center;color:blue">
 2017年3月18日<br>
 Edited by CML<br>
 Weather : Raining<br>
