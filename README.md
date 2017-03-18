@@ -8,7 +8,9 @@
 2017年3月18日<br>
 Edited by CML<br>
 Weather : Raining<br>
+</h2>
 <h1 text-align="center">雨天(上)</h1>
+<h2 style="font-family:verdana;text-align:center;color:pink">
 对于大多数人来讲，雨天或许是很不错的天气，适合在室内静静的听着雨声，或拾起一本读物细细品味，亦或在被窝中安静地入睡，
 但对于我而言，雨天代表着沉闷。<br>
 湿哒哒的空气，潮湿的地板，以及昏暗的宿舍，无不充斥着沉寂。而正是在无事可做的周末，我才更感觉到从灵魂深处袭来的百无聊赖，
