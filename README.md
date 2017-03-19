@@ -10,7 +10,7 @@ Edited by CML<br>
 Weather : Raining<br>
 </h2>
 <h1 text-align="center">Raining day(1)</h1>
-<h3 style="font-family:verdana;text-align:center">
+<h2 style="font-family:verdana;text-align:center">
 For most people, the rain may be a very good weather, suitable for quietly listening to the rain in the room, or pick up a book savor, or in the bed to sleep quietly,
 But for me, rainy days are dull.<br>
 Muffled air, damp floors, and dim dorms, all filled with silence. And it is nothing to do in the weekend, I was more aware of the soul from the depths of the bored,
@@ -22,5 +22,5 @@ Step by step forward, although the road will be more bumpy, I still have no reas
 this website, just finding a way to turly express myself, together with everything I suffer, including the rain.<br>
 Still it's raining, but I can't stop my steps, keeping moving, is the main reason everything being achieved.<br>
 ----Clown<br>
-</h3>
+</h2>
 </body>
