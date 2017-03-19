@@ -5,7 +5,7 @@ My first individual blog</h1>
   <hr />
 </blockquote>
 <h2 style="font-family:verdana;text-align:center;color:pink">
-2017年3月18日<br>
+2017/3/18/<br>
 Edited by CML<br>
 Weather : Raining<br>
 </h2>
