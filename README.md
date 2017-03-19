@@ -10,6 +10,7 @@ Edited by CML<br>
 Weather : Raining<br>
 </h2>
 <h1 text-align="center">Raining day(1)</h1>
+<hr />
 <h2 style="font-family:verdana;text-align:left;color:gray">
 For most people, the rain may be a very good weather, suitable for quietly listening to the rain in the room, or pick up a book savor, or in the bed to sleep quietly,
 But for me, rainy days are dull.<br>
