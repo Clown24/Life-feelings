@@ -1,6 +1,6 @@
 <body>
 <h1 style="text-align:center">
-我的第一篇个人博客</h1>
+My first individual blog</h1>
 <blockquote>
   <hr />
 </blockquote>
@@ -11,14 +11,16 @@ Weather : Raining<br>
 </h2>
 <h1 text-align="center">雨天(上)</h1>
 <h3 style="font-family:verdana;text-align:center">
-对于大多数人来讲，雨天或许是很不错的天气，适合在室内静静的听着雨声，或拾起一本读物细细品味，亦或在被窝中安静地入睡，
-但对于我而言，雨天代表着沉闷。<br>
-湿哒哒的空气，潮湿的地板，以及昏暗的宿舍，无不充斥着沉寂。而正是在无事可做的周末，我才更感觉到从灵魂深处袭来的百无聊赖，
-更是使我不得不回忆起十年前的那个雨天，那个在雨中不小心跌下自行车的我，那个满脸是伤走回家的我。如果时间能重来，我不会再
-让自己受伤，也不会再雨中拼命的呼喊，也不会有那个摔伤之后满脸是疤的我，更不会让我感觉到生命中的雨天，正在淋湿我本该年轻气盛的灵魂，
-是啊，生命中的雨天，也许就在那个时候，开始了与我的之间的旅程。<br>
-之后的人生中，我遇到过无数的雨天，生命也随着雨天的到来而变得昏沉，毫无生气。人之性格多半与其所遭受的经历有关，而我也将带着雨天，
-一步步的往前走，尽管路上多坎坷，那又何妨？<br>
+For most people, the rain may be a very good weather, suitable for quietly listening to the rain in the room, or pick up a book savor, or in the bed to sleep quietly,
+But for me, rainy days are dull.<br>
+Muffled air, damp floors, and dim dorms, all filled with silence. And it is nothing to do in the weekend, I was more aware of the soul from the depths of the bored,
+It is so I had to recall the rain that ten years ago, that I accidentally fell off the bike in the rain, that face is hurt to go home me. If time can come again, I will not again
+So that their injuries, no rain in the desperate cry, there will not be that after the fall of the face is a scar of me, but will not let me feel the rain in life, is wet of my young and fit soul,
+Yeah, the rain in life, maybe at that time, began with my journey between.<br>
+After that time, I met numerous rainy days, life with the arrival of rain becomes dizzy, lifeless. Most of the characteristics of people suffered the experience, and I will be with rain,
+Step by step forward, although the road will be more bumpy, I still have no reason to stop myself.That may be the exact reason why I build
+this website, just finding a way to turly express myself, together with everything I suffer, including the rain.<br>
+Still it's raining, but I can't stop my steps, keeping moving, is the main reason everything being achieved.<br>
 ----Clown<br>
 </h3>
 </body>
