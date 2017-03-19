@@ -1,4 +1,10 @@
 <body>
+<div id="header">
+        <nav>
+          <li class="fork"><a href="https://clown24.github.io/">Main page</a></li>
+          
+        </nav>
+      </div><!-- end header -->
 <h1 style="text-align:center">
 My first individual blog</h1>
 <blockquote>
