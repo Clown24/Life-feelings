@@ -1,4 +1,30 @@
 <body>
+#nav {
+    line-height:30px;
+    background-color:gray;
+    height:250px;
+    width:150px;
+    float:left;
+    text-allign:left;
+    padding:5px;	      
+}
+#nav { 
+    width:150px; 
+    height: 250px; 
+    border: 1px solid #D4CD49; 
+    position:fixed;
+    left:0;
+    top:30% 
+}
+<div id="nav">
+<a href="https://clown24.github.io"><strong>Main Page</strong></a>
+<hr />
+    <strong>Technical blogs
+    <hr />
+   About Mr Clown
+   </strong>
+   <hr />
+  </div>
 <div id="header">
         <nav>
           <li class="fork"><a href="https://clown24.github.io/">Main page</a></li>
