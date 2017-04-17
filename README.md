@@ -1,4 +1,5 @@
 <body>
+<style>
 #nav {
     line-height:30px;
     background-color:gray;
@@ -16,6 +17,7 @@
     left:0;
     top:30% 
 }
+</style>
 <div id="nav">
 <a href="https://clown24.github.io"><strong>Main Page</strong></a>
 <hr />
