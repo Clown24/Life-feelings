@@ -31,7 +31,8 @@
 <div id="header">
         <nav>
           <li class="fork"><a href="https://clown24.github.io/">Main page</a></li>
-          
+          <p>&nbsp;</p>
+          <li class="fork"><a href="https://clown24.github.io/My-Games">My-Games</a></li>
         </nav>
       </div><!-- end header -->
 <h1 style="text-align:center">
