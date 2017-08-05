@@ -21,8 +21,9 @@
 <div id="nav">
 <a href="https://clown24.github.io"><strong>Main Page</strong></a>
 <hr />
-<a href="https://clown24.github.io/My-Games"><strong>My-Games<hr /></strong></a>
-   <strong>
+<a href="https://clown24.github.io/My-Games"><strong>My-Games</strong></a>
+<hr />
+<strong>
    About Mr Clown
    </strong>
    <hr />
